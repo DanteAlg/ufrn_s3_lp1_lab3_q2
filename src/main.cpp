@@ -5,8 +5,6 @@
 #include "banco.h"
 
 // TODO: Documentar com a doxygen
-// TODO: banco.cpp#extrato
-// TODO: banco.cpp#transferencia
 int main() {
   Banco banco;
 
